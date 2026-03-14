@@ -20,6 +20,8 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=LanternCX&repo=ZDT-PTZ)](https://github.com/LanternCX/ZDT-PTZ)
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=glc652&repo=DianSai_CeShi)](https://github.com/glc652/DianSai_CeShi)
+
 ### 机器人
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=woai66&repo=Debug_rocos_mainboard)](https://github.com/woai66/Debug_rocos_mainboard)
