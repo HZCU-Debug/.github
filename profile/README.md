@@ -26,6 +26,8 @@
 
 [![](https://github-readme-stats-lanterncx.vercel.app/api/pin/?username=woai66&repo=Debug_rocos_mainboard&theme=transparent)](https://github.com/woai66/Debug_rocos_mainboard)
 
+[![](https://github-readme-stats-lanterncx.vercel.app/api/pin/?username=glc652&repo=travelrobot_2026&theme=transparent)](https://github.com/glc652/travelrobot_2026.git)
+
 ### 其他
 
 启智杯：
