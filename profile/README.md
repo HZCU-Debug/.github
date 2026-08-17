@@ -6,38 +6,38 @@
 
 ### 智能车
 
-[![](https://github-readme-stats-lanterncx.vercel.app/api/pin/?username=EveAaA&repo=DEBUG_SmartCar_main&theme=transparent)](https://github.com/EveAaA/DEBUG_SmartCar_main)
+[DEBUG_SmartCar_main](https://github.com/EveAaA/DEBUG_SmartCar_main)：Debug 实验室第 19 届智能视觉工程。
 
-[![](https://github-readme-stats-lanterncx.vercel.app/api/pin/?username=LanternCX&repo=SmartCar2025-Main&theme=transparent)](https://github.com/LanternCX/SmartCar2025-Main)
+[SmartCar2025-Main](https://github.com/LanternCX/SmartCar2025-Main)：第 20 届智能车龙芯组项目。
 
 ### 电赛
 
-[![](https://github-readme-stats-lanterncx.vercel.app/api/pin/?username=Hole333&repo=Debug_E_Project&theme=transparent)](https://github.com/Hole333/Debug_E_Project)
+[Debug_E_Project](https://github.com/Hole333/Debug_E_Project)
 
-[![](https://github-readme-stats-lanterncx.vercel.app/api/pin/?username=woai66&repo=STC8H8K64_DEBUG_C_PROJECT&theme=transparent)](https://github.com/woai66/STC8H8K64_DEBUG_C_PROJECT)
+[STC8H8K64_DEBUG_C_PROJECT](https://github.com/woai66/STC8H8K64_DEBUG_C_PROJECT)：2025 年电赛 STC 工程，全国一等奖。
 
-[![](https://github-readme-stats-lanterncx.vercel.app/api/pin/?username=woai66&repo=SeekFree_MSPM0G3507_Opensource_Library&theme=transparent)](https://github.com/woai66/SeekFree_MSPM0G3507_Opensource_Library)
+[SeekFree_MSPM0G3507_Opensource_Library](https://github.com/woai66/SeekFree_MSPM0G3507_Opensource_Library)：2025 年 TI 板电赛工程。
 
-[![](https://github-readme-stats-lanterncx.vercel.app/api/pin/?username=LanternCX&repo=ZDT-PTZ&theme=transparent)](https://github.com/LanternCX/ZDT-PTZ)
+[ZDT-PTZ](https://github.com/LanternCX/ZDT-PTZ)：基于张大头步进电机的二维云台实现与串口协议二次封装。
 
-[![](https://github-readme-stats-lanterncx.vercel.app/api/pin/?username=glc652&repo=DianSai_CeShi&theme=transparent)](https://github.com/glc652/DianSai_CeShi)
+[DianSai_CeShi](https://github.com/glc652/DianSai_CeShi)：电赛前训练项目。
 
 ### 机器人
 
-[![](https://github-readme-stats-lanterncx.vercel.app/api/pin/?username=woai66&repo=Debug_rocos_mainboard&theme=transparent)](https://github.com/woai66/Debug_rocos_mainboard)
+[Debug_rocos_mainboard](https://github.com/woai66/Debug_rocos_mainboard)：基于 NBUT RoboCup 主控板的二次开发。
 
-[![](https://github-readme-stats-lanterncx.vercel.app/api/pin/?username=glc652&repo=travelrobot_2026&theme=transparent)](https://github.com/glc652/travelrobot_2026.git)
+[travelrobot_2026](https://github.com/glc652/travelrobot_2026.git)：2026 年省机器人旅游机器人寻宝赛道项目。
 
 ### 其他
 
 启智杯：
 
-[![](https://github-readme-stats-lanterncx.vercel.app/api/pin/?username=Hole333&repo=HK_Algorithm_Dev&theme=transparent)](https://github.com/Hole333/HK_Algorithm_Dev)
+[HK_Algorithm_Dev](https://github.com/Hole333/HK_Algorithm_Dev)
 
 浙江省人工智能竞赛：
 
-[![](https://github-readme-stats-lanterncx.vercel.app/api/pin/?username=LanternCX&repo=ZhiGrip&theme=transparent)](https://github.com/LanternCX/ZhiGrip)
+[ZhiGrip](https://github.com/LanternCX/ZhiGrip)：语音驱动的三自由度视觉抓取机械臂。
 
 新生培训：
 
-[![](https://github-readme-stats-lanterncx.vercel.app/api/pin/?username=LanternCX&repo=DebugFreshman2025-CP&theme=transparent)](https://github.com/LanternCX/DebugFreshman2025-CP)
+[DebugFreshman2025-CP](https://github.com/LanternCX/DebugFreshman2025-CP)：Debug 实验室 2025 级新生 C 语言课程。
