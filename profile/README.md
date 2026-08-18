@@ -30,7 +30,7 @@
 
 [NUEDC-2026-E](https://github.com/HZCU-Debug/NUEDC-2026-E)：2026 年电赛省一
 
-[NUEDC-](https://github.com/HZCU-Debug/NUEDC-Template)：电赛控制题嵌入式部分框架（ESP32 / ESP32S3 / TI M0）+ 正点原子 / 张大头
+[NUEDC-Template](https://github.com/HZCU-Debug/NUEDC-Template)：电赛控制题嵌入式部分框架（ESP32 / ESP32S3 / TI M0）+ 正点原子 / 张大头
 
 ### 机器人
 
