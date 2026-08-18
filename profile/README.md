@@ -4,11 +4,11 @@
 
 ### 智能车
 
-[DEBUG_SmartCar_main](https://github.com/EveAaA/DEBUG_SmartCar_main)：第 19 届智能视觉
+[DEBUG_SmartCar_main](https://github.com/EveAaA/DEBUG_SmartCar_main)：第 19 届智能视觉国一
 
 [SmartCar2025-Main](https://github.com/LanternCX/SmartCar2025-Main)：第 20 届智能车极速光电（龙芯）
 
-[SmartCar2026-TransportCar](https://github.com/LanternCX/SmartCar2026-TransportCar) 第 21 届智能车蚂蚁搬家
+[SmartCar2026-TransportCar](https://github.com/LanternCX/SmartCar2026-TransportCar)：第 21 届智能车蚂蚁搬家
 
 ### 电赛
 
